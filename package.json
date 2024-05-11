@@ -1,0 +1,22 @@
+{
+  "name": "teanews",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wandykrtw95/teanews.git"
+  },
+  "keywords": [
+    "wandy"
+  ],
+  "author": "wandy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wandykrtw95/teanews/issues"
+  },
+  "homepage": "https://github.com/Wandykrtw95/teanews#readme",
+  "description": ""
+}
